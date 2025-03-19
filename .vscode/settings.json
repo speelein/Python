@@ -1,0 +1,14 @@
+{
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "files.exclude": {
+        "**/Andere/.git": true,
+        "**/Datei/.git": true,
+        "**/Multi/.git": true,
+        "**/Schleifen/.git": true,
+        "**/Test/.git": true
+    },
+    "explorer.excludeGitIgnore": true,
+    "search.useIgnoreFiles": true,
+    "github.copilot.editor.enableAutoCompletions": false
+}
